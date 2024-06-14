@@ -1,5 +1,3 @@
-import './polyfills';
-
 import { setErrorThrowerOptions } from './errors/errorThrower';
 
 export * from './components';
